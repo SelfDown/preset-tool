@@ -35,10 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/awesome-starter/create-preset.git"
-  },
-  "bugs": {
-    "url": "https://github.com/awesome-starter/create-preset/issues"
+    "url": "git+https://github.com/SelfDown/preset-tool.git"
   },
   "dependencies": {
     "@bassist/node-utils": "^0.1.2",
